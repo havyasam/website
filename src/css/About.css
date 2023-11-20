@@ -1,0 +1,39 @@
+.main1{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.abtme{
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+}
+#gif{
+    width: 350px;
+    height: 350px;
+}
+p{
+    color: white;
+}
+h1{
+    font-family: cursive;
+    color: white;
+}
+@media  (max-width: 600px){
+.main1{
+    display: flex;
+    flex-direction: column;
+}
+h1,p{
+    text-align: center;
+    align-items: center;
+}
+#gif{
+    padding-left: 70px;
+}
+}
+h1:hover{
+    color: blue;
+}
+    
