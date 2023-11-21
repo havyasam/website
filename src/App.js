@@ -7,6 +7,7 @@ import Home from "./component/Home";
 import Project from './component/Project'
 import Connect from "./component/Connect";
 import Footer from "./component/Footer";
+import Loader from "./component/Loader"
 
 import "./App.css";
 
