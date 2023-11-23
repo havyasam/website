@@ -26,3 +26,9 @@
    height: 30px;
    border-radius: 10%;
  }
+ @media (max-width:600px) {
+  .footer{
+      width: 89%;
+      
+  }
+}
