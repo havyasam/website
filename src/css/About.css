@@ -37,4 +37,9 @@ h1:hover{
     color: blue;
     
 }
+@media  (max-width: 600px){
+    #gif{
+       width: 90px;
+    }
+}
     
