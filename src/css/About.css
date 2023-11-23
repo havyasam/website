@@ -39,7 +39,8 @@ h1:hover{
 }
 @media  (max-width: 600px){
     #gif{
-       width: 90px;
+       width: 330px;
+       
     }
 }
     
